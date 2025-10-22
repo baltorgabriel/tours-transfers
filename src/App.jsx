@@ -21,9 +21,9 @@ export default function App() {
     }
 
     const tours = [
-        { id: 1, title: "Blue Lagoon & Turtle Sanctuary", dur: "Half-day", price: 6500, img: "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?q=80&w=1600&auto=format&fit=crop" },
-        { id: 2, title: "Mele Cascades & Village Experience", dur: "Half-day", price: 5900, img: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=1600&auto=format&fit=crop" },
-        { id: 3, title: "Round-Island Highlights", dur: "Full day", price: 11900, img: "https://images.unsplash.com/photo-1500375592092-40eb2168fd21?q=80&w=1600&auto=format&fit=crop" },
+        { id: 1, title: "Blue Lagoon & Turtle Sanctuary", dur: "Half-day", price: 6500, img: "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/10/7e/4c/05.jpg" },
+{ id: 2, title: "Mele Cascades & Village Experience", dur: "Half-day", price: 5900, img: "https://vanuatu.com.au/wp-content/uploads/2015/03/Port-Vila-Mele-Cascades-8.jpg" },
+{ id: 3, title: "Round-Island Highlights", dur: "Full day", price: 11900, img: "https://media.tacdn.com/media/attractions-splice-spp-674x446/13/d0/25/79.jpg" },
     ];
 
     const transfers = [
